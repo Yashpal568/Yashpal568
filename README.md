@@ -1,127 +1,80 @@
-<div align="center">Hey, I'm Yash Pal 👋
+Hi, I'm Yash Pal 👋
 
 Full-Stack Developer | MERN Stack | SaaS Builder
 
-Building practical software solutions, scalable web applications, and products that solve real-world problems.
+I build practical web applications and SaaS products, from responsive user interfaces to APIs and database-backed systems.
 
-""GitHub" (https://img.shields.io/badge/GitHub-Yashpal568-181717?style=for-the-badge&logo=github)" (https://github.com/Yashpal568)
-""Portfolio" (https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://github.com/Yashpal568?tab=repositories)
-
-</div>---
-
-👨‍💻 About Me
-
-I'm a software developer specializing in React.js, Node.js, and the MERN stack, with 2 years of professional experience building web applications and working on real-world software projects.
-
-I enjoy taking ideas from concept to implementation—from designing responsive interfaces and developing REST APIs to integrating databases, authentication, and backend business logic.
-
-- 🎓 Education: BCA, Manipal University Jaipur
-- 💼 Experience: 2 years of professional software development
-- 🚀 Currently building: SaaS platforms and full-stack applications
-- 🧩 Interests: Software architecture, backend engineering, and product development
-- 🌱 Currently improving: Data structures, algorithms, system design, and application scalability
-- 🤝 Open to: Interesting software projects and developer collaborations
+- GitHub: "@Yashpal568" (https://github.com/Yashpal568)
+- Website: "Quantum Mesh" (https://www.quantumesh.in)
+- Education: BCA, Manipal University Jaipur
 
 ---
 
-🛠️ Tech Stack
+About Me
 
-Frontend Development
+I'm a full-stack developer focused on React, Node.js, Express, and MongoDB. I enjoy taking products from idea to implementation: building interfaces, designing REST APIs, integrating databases, and creating authentication and role-based workflows.
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- Building full-stack applications and SaaS products
+- Interested in software architecture, API design, and application security
+- Improving my data structures and algorithms, system design, and scalability skills
+- Open to meaningful projects and developer collaboration
 
-Backend Development
+Tech Stack
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-"Express.js" (https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+Frontend: HTML5 · CSS3 · JavaScript · TypeScript · React · Tailwind CSS · Bootstrap · Vite
 
-Databases
+Backend: Node.js · Express.js · REST APIs
 
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Databases: MongoDB · MySQL
 
-Tools & Platforms
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+Tools & Platforms: Git · GitHub · Postman · Vercel
 
 ---
 
-🚀 Featured Projects
+Featured Projects
 
-1. TrackSentra — Security Patrol Management SaaS
+"TrackSentra — Security Patrol Management" (https://github.com/Yashpal568/TrackSentra)
 
-A security patrol management platform designed to help organizations monitor guard patrols, track checkpoint scans, and improve operational visibility.
+A security patrol management SaaS project designed to help organizations monitor guard patrols through QR checkpoint scans, guard workflows, and operational dashboards.
 
-Focus areas: QR-based checkpoint tracking, guard management, authentication, and operational dashboards.
+Focus: QR checkpoint tracking, guard management, authentication, alerts, reporting, and deployment documentation.
 
-"Explore Repository" (https://github.com/Yashpal568/TrackSentra)
+"Cineflix — MERN Movie App" (https://github.com/Yashpal568/cineflix---Mern-Movie-App)
 
-2. Cineflix — MERN Movie Application
+A full-stack movie application with user authentication, movie browsing, administrative management, and dashboard features.
 
-A full-stack movie application built with the MERN stack, featuring authentication, REST APIs, and an administrative dashboard.
+Stack: React · Node.js · Express · MongoDB
+Deployment: "Frontend" (https://cineflix-mern-movie-app.vercel.app/) · "Backend" (https://cineflix-mern-movie-app.onrender.com/)
 
-Focus areas: React, Node.js, Express.js, MongoDB, JWT authentication, and role-based access control.
+"Servora — Restaurant Technology" (https://github.com/Yashpal568/Foodie-Teck---SaaS-App)
 
-"Explore Repository" (https://github.com/Yashpal568/cineflix---Mern-Movie-App) · "Live Demo" (https://cineflix.vercel.app)
+A restaurant-focused web application project centered on digital ordering and streamlined restaurant workflows.
 
-3. Servora — Restaurant Technology Platform
+Links: "Frontend repository" (https://github.com/Yashpal568/Foodie-Teck---SaaS-App) · "Backend repository" (https://github.com/Yashpal568/Foodie-Teck---SaaS) · "Product website" (https://servora.quantumesh.in)
 
-A restaurant-focused SaaS project centered on digital ordering and streamlined restaurant operations.
+"GateSphere — Visitor Management System" (https://github.com/Yashpal568/Visitor-Management-System---MERN-STACK-SaaS)
 
-Focus areas: Full-stack development, restaurant workflows, and SaaS product architecture.
+A visitor management application supporting visitor registration and role-based administrative and security workflows.
 
-"Explore Frontend" (https://github.com/Yashpal568/Foodie-Teck---SaaS-App) · "Explore Backend" (https://github.com/Yashpal568/Foodie-Teck---SaaS)
+Product website: "gatesphere.quantumesh.in" (https://gatesphere.quantumesh.in)
 
-4. GateSphere — Visitor Management System
+"Hospital Management System" (https://github.com/Yashpal568/HMS)
 
-A visitor management solution designed to support visitor registration and administrative workflows.
-
-Focus areas: Visitor management, application workflows, and full-stack development.
-
-"Explore Repository" (https://github.com/Yashpal568/Visitor-Management-System---MERN-STACK-SaaS)
+A hospital management platform project with documented architecture for clinical, patient, and administrative workflows.
 
 ---
 
-🎯 What I Bring to a Project
+Engineering Approach
 
-- End-to-end development: Building frontend interfaces and backend services.
-- API engineering: Designing RESTful endpoints and integrating application services.
-- Database development: Structuring and working with MongoDB and relational databases.
-- Authentication: Implementing secure authentication and access-control workflows.
-- Product thinking: Translating requirements into practical features and maintainable code.
-- Continuous improvement: Learning, testing, debugging, and refining software through iteration.
+- Build features across frontend, backend, and database layers.
+- Prefer clear API contracts, readable code, and maintainable architecture.
+- Treat authentication, authorization, environment configuration, and error handling as core engineering concerns.
+- Document setup steps and design decisions to make projects easier to understand and run.
 
----
+GitHub
 
-📊 GitHub Activity
-
-<div align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Yashpal568&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Yashpal568&layout=compact&hide_border=true&theme=github_dark)
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=Yashpal568&theme=github-dark-blue&hide_border=true)
-
-</div>---
-
-🤝 Let's Connect
-
-I'm interested in building useful software, collaborating with developers, and contributing to meaningful projects.
-
-GitHub: "@Yashpal568" (https://github.com/Yashpal568)
+Explore more of my work in the "repositories section" (https://github.com/Yashpal568?tab=repositories).
 
 ---
 
-<div align="center">Building with purpose. Learning through practice. Improving with every iteration.
-
-</div>
+Build thoughtfully. Learn continuously. Improve through iteration.
