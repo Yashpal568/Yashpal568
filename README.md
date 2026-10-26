@@ -52,33 +52,31 @@ Tools & Platforms: Git · GitHub · Postman · Vercel
 
 ## Featured Projects
 
-[TrackSentra — Security Patrol Management](https://github.com/Yashpal568/TrackSentra)
+### [Vedic AI — Vedic Astrology Platform](https://github.com/Yashpal568/vedic-ai)
 
-A security patrol management SaaS project designed to help organizations monitor guard patrols through QR checkpoint scans, guard workflows, and operational dashboards.
+A web-based Vedic astrology project focused on generating personalized astrological insights from birth details.
 
-Focus: QR checkpoint tracking, guard management, authentication, alerts, reporting, and deployment documentation.
+Focus: Kundli generation, planetary positions, Nakshatra, Navamsa, Dasha, and AI-assisted interpretation.
 
-[Cineflix — MERN Movie App](https://github.com/Yashpal568/cineflix---Mern-Movie-App)
+### [GymSphere — Gym Management System](https://github.com/Yashpal568/E-gym---gym-management-system-)
 
-A full-stack movie application with user authentication, movie browsing, administrative management, and dashboard features.
+A gym management platform concept for handling gym operations through a multi-tenant, subscription-oriented web application.
 
-Stack: React · Node.js · Express · MongoDB
+Focus: Gym and member management, attendance tracking, membership fees, payment history, reports, and super-admin workflows.
 
-Deployment: [Frontend](https://cineflix-mern-movie-app.vercel.app/) · [Backend](https://cineflix-mern-movie-app.onrender.com/)
-
-[Servora — Restaurant Technology](https://github.com/Yashpal568/Foodie-Teck---SaaS-App)
+### [Servora — Restaurant Technology](https://github.com/Yashpal568/Foodie-Teck---SaaS-App)
 
 A restaurant-focused web application project centered on digital ordering and streamlined restaurant workflows.
 
 Links: [Frontend repository](https://github.com/Yashpal568/Foodie-Teck---SaaS-App) · [Backend repository](https://github.com/Yashpal568/Foodie-Teck---SaaS) · [Product website](https://servora.quantumesh.in)
 
-[GateSphere — Visitor Management System](https://github.com/Yashpal568/Visitor-Management-System---MERN-STACK-SaaS)
+### [GateSphere — Visitor Management System](https://github.com/Yashpal568/Visitor-Management-System---MERN-STACK-SaaS)
 
 A visitor management application supporting visitor registration and role-based administrative and security workflows.
 
 Product website: [gatesphere.quantumesh.in](https://gatesphere.quantumesh.in)
 
-[Hospital Management System](https://github.com/Yashpal568/HMS)
+### [Hospital Management System](https://github.com/Yashpal568/HMS)
 
 A hospital management platform project with documented architecture for clinical, patient, and administrative workflows.
 
